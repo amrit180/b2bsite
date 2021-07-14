@@ -1,0 +1,11 @@
+.navbarMain {
+  height: 70px;
+  width: 100%;
+  background-color: #fff;
+}
+.nav-link {
+  color: #000;
+}
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}

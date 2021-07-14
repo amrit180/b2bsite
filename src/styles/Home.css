@@ -1,0 +1,7 @@
+.divContainer {
+  overflow-y: scroll;
+  height: 100vh;
+}
+.divContainer::-webkit-scrollbar {
+  display: none;
+}
